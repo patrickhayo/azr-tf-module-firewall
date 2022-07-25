@@ -42,5 +42,3 @@ output "virtual_hub" {
   description = "Specifies the Virtual HUB configuration."
   value       = var.virtual_hub_id != null ? azurerm_firewall.this.virtual_hub : null
 }
-Footer
-© 2022 GitHub, Inc.

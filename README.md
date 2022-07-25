@@ -43,7 +43,6 @@ resource "azurerm_resource_group" "this" {
 }
 ```
 
-
 <!-- END_TF_DOCS -->
 ## Authors
 
