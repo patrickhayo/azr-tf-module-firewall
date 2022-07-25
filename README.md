@@ -1,6 +1,6 @@
-# azr-tf-module-template
+# azr-tf-module-firewall
 
-[Terraform](https://www.terraform.io) Module to create **[NAME]** in Azure
+[Terraform](https://www.terraform.io) Module to create **Azure Firewall** in Azure
 
 <!-- BEGIN_TF_DOCS -->
 ## Prerequisites
